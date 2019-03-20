@@ -1,5 +1,6 @@
 {
     "app.components.Dialog.title": "Title",
     "app.components.Dialog.message": "Message",
-    "app.components.Dialog.acceptButton": "Accept"
+    "app.components.Dialog.acceptButton": "Accept",
+    "app.components.Dialog.declineButton": "Decline"
 }
